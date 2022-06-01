@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Caesar_cipher.cpp
+Caesar_cipher.cpp(6): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Caesar_cipher.cpp(65): warning C4101: 'tmp' :참조되지 않은 지역 변수입니다.
+x64\Release\sha256.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
+     ..\x64\Release\DLL.lib 라이브러리 및 ..\x64\Release\DLL.exp 개체를 생성하고 있습니다.
+  코드를 생성하고 있습니다.
+  3 of 61 functions ( 4.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    5 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  DLL.vcxproj -> C:\Users\hong\Documents\Visual Studio 2015\Projects\새로 짜는 텀프로젝트\DLL\..\x64\Release\DLL.dll
+  DLL.vcxproj -> ..\x64\Release\DLL.pdb (Full PDB)

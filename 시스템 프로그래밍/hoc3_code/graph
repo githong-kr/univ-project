@@ -1,0 +1,7 @@
+set term pngcairo size 350,262 enhanced font 'Verdana,10'
+set output 'graph.png'
+set title "x+2"
+set xlab "input"
+set ylab "output"
+set key out vert right top
+plot x+2

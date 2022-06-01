@@ -1,0 +1,32 @@
+﻿  client.cpp
+client.cpp(26): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' 선언을 참조하십시오.
+client.cpp(27): warning C4244: '인수': 'SOCKET'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+client.cpp(29): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' 선언을 참조하십시오.
+client.cpp(30): warning C4244: '인수': 'SOCKET'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+client.cpp(32): warning C4244: '인수': 'SOCKET'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+client.cpp(34): warning C4244: '인수': 'SOCKET'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+client.cpp(41): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+client.cpp(45): warning C4244: '인수': 'SOCKET'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+client.cpp(48): warning C4244: '인수': 'SOCKET'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+client.cpp(53): warning C4244: '인수': 'SOCKET'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+client.cpp(58): warning C4244: '인수': 'SOCKET'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+client.cpp(63): warning C4244: '인수': 'SOCKET'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+client.cpp(100): warning C4244: '인수': 'SOCKET'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+client.cpp(113): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+client.cpp(118): warning C4244: '인수': 'SOCKET'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+client.cpp(123): warning C4244: '인수': 'SOCKET'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+client.cpp(128): warning C4244: '인수': 'SOCKET'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+client.cpp(129): warning C4244: '인수': 'SOCKET'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+client.cpp(44): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+client.cpp(106): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+  코드를 생성하고 있습니다.
+  1 of 140 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  Client.vcxproj -> C:\Users\Hong\Documents\Visual Studio 2015\Projects\Perfect_Protocol\x64\Release\Client.exe
+  Client.vcxproj -> C:\Users\Hong\Documents\Visual Studio 2015\Projects\Perfect_Protocol\x64\Release\Client.pdb (Full PDB)

@@ -1,0 +1,33 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  A5_1.cpp
+A5_1.cpp(102): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Communication.cpp
+Communication.cpp(5): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ECC.cpp
+ECC.cpp(172): warning C4244: '인수': 'SOCKET'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+ECC.cpp(174): warning C4244: '인수': 'SOCKET'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+ECC.cpp(179): warning C4244: '인수': 'SOCKET'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+ECC.cpp(182): warning C4244: '인수': 'SOCKET'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Feistel.cpp
+Feistel.cpp(77): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Log.cpp
+  Make_Server.cpp
+  make_client.cpp
+  rsa.cpp
+rsa.cpp(31): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+rsa.cpp(63): warning C4244: 'return': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+rsa.cpp(180): warning C4244: 'return': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  top.cpp
+top.cpp(37): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+x64\Release\sha256.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
+     ..\x64\Release\DLL.lib 라이브러리 및 ..\x64\Release\DLL.exp 개체를 생성하고 있습니다.
+  코드를 생성하고 있습니다.
+c:\users\hong\documents\visual studio 2015\projects\새로 짜는 텀프로젝트\dll\rsa.cpp(119): warning C4700: 초기화되지 않은 'retval' 지역 변수를 사용했습니다.
+c:\users\hong\documents\visual studio 2015\projects\새로 짜는 텀프로젝트\dll\rsa.cpp(83): warning C4700: 초기화되지 않은 'retval' 지역 변수를 사용했습니다.
+c:\users\hong\documents\visual studio 2015\projects\새로 짜는 텀프로젝트\dll\ecc.cpp(201): warning C4715: 'Key_Gender_ECC': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  11 of 62 functions (17.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  DLL.vcxproj -> C:\Users\hong\documents\visual studio 2015\Projects\새로 짜는 텀프로젝트\DLL\..\x64\Release\DLL.dll
+  DLL.vcxproj -> ..\x64\Release\DLL.pdb (Full PDB)

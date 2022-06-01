@@ -1,0 +1,10 @@
+﻿  client_main.cpp
+client_main.cpp(99): warning C4244: '인수': 'SOCKET'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+client_main.cpp(17): warning C4101: 'Key' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다.
+  7 of 20 functions (35.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    10 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  Client.vcxproj -> C:\Users\hong\documents\visual studio 2015\Projects\새로 짜는 텀프로젝트\x64\Release\Client.exe
+  Client.vcxproj -> C:\Users\hong\documents\visual studio 2015\Projects\새로 짜는 텀프로젝트\x64\Release\Client.pdb (Full PDB)

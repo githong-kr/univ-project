@@ -1,0 +1,23 @@
+
+
+
+                          HELP FOR INFORMATION
+
+           There are many functions beyond a calculator in HOC
+             HOC can get the answer about a simple operation
+           
+          Also HOC can display the graph of functions on 2 ways 
+              If you want draw a graph, Please type 'graph'
+           And then you can see the description to draw a graph
+
+              You must be confused with lots of operations
+         I'm sure that because HOC can make you get into the swing
+                        Just then, type 'clear' 
+                       Your screen will be clear!
+
+                     Thank you for using my program
+                        
+                                JUST FUN
+            
+
+
